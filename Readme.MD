@@ -1,1 +1,9 @@
-# bt6
+﻿# bt6
+
+Phan Nhat Quang
+2280602559
+BT5
+
+![1773391173923](image/Readme/1773391173923.png)
+
+![1773391225624](image/Readme/1773391225624.png)
